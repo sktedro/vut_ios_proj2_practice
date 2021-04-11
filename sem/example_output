@@ -1,0 +1,33 @@
+I am the parent and I will sleep first for 1000 ms.
+I am a child number 2 and I'm waiting for my turn.
+I am a child number 1 and I'm waiting for my turn.
+I am a child number 4 and I'm waiting for my turn.
+I am a child number 6 and I'm waiting for my turn.
+I am a child number 5 and I'm waiting for my turn.
+I am a child number 7 and I'm waiting for my turn.
+I am a child number 3 and I'm waiting for my turn.
+I am a child number 9 and I'm waiting for my turn.
+I am a child number 8 and I'm waiting for my turn.
+I am a child number 10 and I'm waiting for my turn.
+I am the parent and I have slept. I will now release the semaphore, wait for my children to sleep and kill myself.
+I am a child number 2 and now it's my turn. Sleeping for 100 ms.
+I am a child number 2 and I have slept. I will now release the semaphore and kill myself.
+I am a child number 1 and now it's my turn. Sleeping for 100 ms.
+I am a child number 1 and I have slept. I will now release the semaphore and kill myself.
+I am a child number 4 and now it's my turn. Sleeping for 100 ms.
+I am a child number 4 and I have slept. I will now release the semaphore and kill myself.
+I am a child number 6 and now it's my turn. Sleeping for 100 ms.
+I am a child number 6 and I have slept. I will now release the semaphore and kill myself.
+I am a child number 5 and now it's my turn. Sleeping for 100 ms.
+I am a child number 5 and I have slept. I will now release the semaphore and kill myself.
+I am a child number 7 and now it's my turn. Sleeping for 100 ms.
+I am a child number 7 and I have slept. I will now release the semaphore and kill myself.
+I am a child number 3 and now it's my turn. Sleeping for 100 ms.
+I am a child number 3 and I have slept. I will now release the semaphore and kill myself.
+I am a child number 9 and now it's my turn. Sleeping for 100 ms.
+I am a child number 9 and I have slept. I will now release the semaphore and kill myself.
+I am a child number 8 and now it's my turn. Sleeping for 100 ms.
+I am a child number 8 and I have slept. I will now release the semaphore and kill myself.
+I am a child number 10 and now it's my turn. Sleeping for 100 ms.
+I am a child number 10 and I have slept. I will now release the semaphore and kill myself.
+
