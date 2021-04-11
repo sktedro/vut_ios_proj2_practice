@@ -14,7 +14,7 @@ For all three tasks there is a makefile. You can use 'make run' command to
 compile and run the program.
 
 
-Sources that have helped me (besides the manuals):
+Sources that have helped me (besides the manpages):
 
 forking:
 https://www.geeksforgeeks.org/fork-system-call/
