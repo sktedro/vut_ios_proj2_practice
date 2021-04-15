@@ -43,7 +43,7 @@ typedef struct{
 int main(void){
 
   //Create a shared memory
-  int shmid = shmget(sharedMemKey, (sizeof(int) + sizeof(sem_t)), IPC_CREAT | 0666);
+  int shmid = shmget(sharedMemKey, sizeof(SharedMem), IPC_CREAT | 0666);
   if(shmid < 0){
     printf("Shared memory could not be created.\n");
     return 1;
